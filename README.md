@@ -23,4 +23,4 @@ Full dataset and implementation code will be released upon paper acceptance.
 ## Sample outputs
 We display sample log messages and their acquired semantics as follows:
 
-![sample](image/sample.png)
+![sample_output](image/sample_output.png)
